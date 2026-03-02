@@ -1,0 +1,41 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+credentials*
+secrets*
+kubeconfig*
+.aws/
+.ssh/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+
+# Ansible
+*.retry
+vault-password-file
+.vault_pass
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Runtime / build output
+*.log
+__pycache__/
+*.py[cod]
+.pytest_cache/
+node_modules/
+dist/
+build/
