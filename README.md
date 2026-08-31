@@ -16,9 +16,9 @@ A practical reference containing personal study notes, commands, concepts and tr
 └── 09-ci-cd-jenkins-github-actions-argocd-notes/
 ```
 
-## Timeline note
+## timeline
 
-This repository was organized as a structured learning project. The commit history reflects a reconstructed study timeline before the related hands-on projects. It is intended as a personal learning record, not as a claim that every note was originally written on the exact commit date.
+started with devops-fundamentals-notes in march 2026 and ended with ci-cd-jenkins-github-actions-argocd-notes on july 2026.
 
 ## Important
 
